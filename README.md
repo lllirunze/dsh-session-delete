@@ -4,7 +4,7 @@
 
 # Delete session
 
-**Permanently remove a session from DSH — its sidebar row, workspace records, local files, and cache — behind one confirmation.**
+**Remove session from DSH.**
 
 `DSH Web` · `English / 简体中文` · `No dependencies`
 
