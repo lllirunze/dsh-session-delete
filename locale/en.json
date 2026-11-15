@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Delete session",
+    "description": "Adds a Delete session action to a session’s menu and removes that session after a confirmation."
+  }
+}
