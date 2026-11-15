@@ -6,8 +6,6 @@
 
 **Remove session from DSH.**
 
-`DSH Web` · `English / 简体中文` · `No dependencies`
-
 </div>
 
 ---
